@@ -3,7 +3,9 @@
 ### Amazing facts about myself is that I am a:
 1. Gamer
 2. Photographer
-3. ./Ambivert
+3. Ambivert
+4. Quiet Person
+5. Enjoying Life While it Lasted
 <!--
 **PoVenix/PoVenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
